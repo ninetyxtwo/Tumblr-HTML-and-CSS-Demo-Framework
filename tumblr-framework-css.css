@@ -1,0 +1,90 @@
+.head {
+	padding-right: 0;
+	padding-left: 0;
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.nav {
+	border: solid 1px #efefef;
+	margin-left:  0;
+}
+
+.nav .container{
+	padding-right: 0;
+	padding-left: 0;
+	padding-top: 5px;
+	margin-top: 5px;
+}
+
+.nav ul{
+	padding-right: 0;
+	margin-right: 0;
+}
+
+.nav li {
+	display: inline;
+	padding:10px;
+	border: solid 1px #000;
+}
+
+.container .title {
+	display: inline;
+}
+
+.image-post .container img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.jumbotron {
+	background-image: url('https://580b9ae41ef360b2f1f058076b8eaa75a500732d-www.googledrive.com/host/0Bx9NrVo2QtGZaENMM0xzSW5GX1U');
+	min-height: 300px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-attachment: relative;
+	background-position: center center;
+	background-size: cover;
+	padding: none;
+	display: block;
+} 
+
+.text-post .container,
+.quote-post .container,
+.image-post .container,
+.link-post .container,
+.chat-post .container {
+	border: solid 1px #efefef;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+
+}
+
+.user-img {
+		border: solid 1px #efefef;
+		margin-top: -90px;
+}
+
+.user-img .container {
+		border: solid 1px #efefef;
+		width: 100px;
+		height: 100px;
+		padding: 0;
+}	
+
+.user-img .container img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	background-color: #efefef;
+}
+
+.footer {
+	background-color: #efefef;
+}
+
+.footer .container {
+		padding: 10px;
+}
